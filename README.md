@@ -1,4 +1,4 @@
-### zorbash's GitHub Profile 👋
+### zorbash's (Dimitris Zorbas) GitHub Profile 👋
 
 - 🔭 I’m currently working on [Tefter](https://tefter.io) and [Artery](https://artery.ltd)
 - ✍️ I blog on [zorbash.com](zorbash.com)
