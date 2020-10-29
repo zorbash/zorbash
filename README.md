@@ -1,6 +1,6 @@
 ### zorbash's (Dimitris Zorbas) GitHub Profile 👋
 
-![contributions](https://github-readme-stats.vercel.app/api?username=zorbash&count_private=true)
+![contributions](https://github-readme-stats.vercel.app/api?username=zorbash&count_private=true&custom_title=GitHub%20Stats&show_icons=true&theme=cobalt)
 
 - 🔭 I’m currently working on [Tefter](https://tefter.io) and [Artery](https://artery.ltd)
 - ✍️ I blog on [zorbash.com](zorbash.com)
